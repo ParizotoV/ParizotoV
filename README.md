@@ -14,11 +14,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor fullstack com mais de 5 anos de experiência, especializado em aplicações modernas com **React**, **Next.js**, **NestJS**, **Prisma** e **PostgreSQL**.
+Sou Vinicius Vieira Parizoto, desenvolvedor fullstack com mais de 5 anos de experiência em sistemas web modernos. Minha trajetória começou criando servidores de GTA RP, o que despertou minha paixão pela programação.
 
-Trabalho com foco em performance, arquitetura escalável e boas práticas como **SOLID**, **modularização** e **testes automatizados**. Já atuei em empresas como **Conexxi** e **Voluti**, além de desenvolver produtos próprios e MVPs para startups.
+Desde então, venho construindo soluções robustas, organizadas e escaláveis, com foco em arquitetura limpa, testes automatizados e entrega de valor real. Já atuei como freelancer e também em empresas como Conexxi, Voluti e outras do setor financeiro e de tecnologia.
 
-Tenho facilidade em traduzir regras de negócio em soluções técnicas sólidas e organizadas.
+Tenho facilidade em entender a dor do cliente e transformar necessidades em soluções técnicas de alta qualidade, seguindo princípios como SOLID, modularização, componentização e boas práticas de desenvolvimento.
 
 ---
 
@@ -39,8 +39,8 @@ Docker · GitHub Actions · Railway · Vercel · LogRocket · Sentry
 **Testes**  
 Jest · React Testing Library
 
-**Integrações**  
-FingerprintJS · n8n · Mercado Pago API · Typeform
+**Outros**  
+n8n · FingerprintJS · Mercado Pago API · Typeform
 
 ---
 
@@ -62,6 +62,12 @@ FingerprintJS · n8n · Mercado Pago API · Typeform
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ParizotoV&show_icons=true&theme=default&hide_title=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParizotoV&layout=compact&langs_count=6&theme=default" />
 </p>
+
+---
+
+## 💼 Objetivo atual
+
+Busco uma nova oportunidade como **Desenvolvedor Fullstack (PJ)** em empresas brasileiras, com foco em projetos **100% remotos**. Quero colaborar em ambientes com propósito, onde possa aplicar meu conhecimento técnico com autonomia, agilidade e visão de produto.
 
 ---
 
